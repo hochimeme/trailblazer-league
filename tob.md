@@ -1,12 +1,12 @@
 # Trailblazer League -- Theatre of Blood
 
 ## Relics
-Tier 1: Infinite run [Skilling]
-Tier 2: XP multiplier increases from 5x to 8x [Teleportation]
-Tier 3: Drop rate multiplier increased from 1x to 2x [Combat]
-Tier 4: XP increases to 12x [Utility]
-Tier 5: Drop rate increases to 3x [Skilling]
-Tier 6: XP increases to 16x [Combat]
+* Tier 1: Infinite run [Skilling]
+* Tier 2: XP multiplier increases from 5x to 8x [Teleportation]
+* Tier 3: Drop rate multiplier increased from 1x to 2x [Combat]
+* Tier 4: XP increases to 12x [Utility]
+* Tier 5: Drop rate increases to 3x [Skilling]
+* Tier 6: XP increases to 16x [Combat]
 
 Like with Twisted League, the meta is likely going to be to complete as many tasks as possible to unlock the top relics. Tier 3 seems like an especially important unlock for ToB purposes, since it makes drop-dependent activities (barrows, kraken, GWD, etc.) more viable *and* unlocks a combat relic. Unlocking tier 3 should be the top priority--worry about stats, gear, quests etc. second.
 
@@ -19,8 +19,8 @@ Like with Twisted League, the meta is likely going to be to complete as many tas
 
 ## Region unlocks (in order)
 
-Magers: Kandarin, Morytania, Desert
-Meleers: Kandarin, Asgarnia, Morytania
+* Magers: Kandarin, Morytania, Desert
+* Meleers: Kandarin, Asgarnia, Morytania
 
 ## ToB Gear
 
