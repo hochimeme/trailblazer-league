@@ -62,43 +62,174 @@ Be aware of any league tasks that can be completed while doing this. It's not cr
 
 Requires Rune Mysteries and Cooks Assistant
 
-* [ ] Complete a lap of the Draynor Village Rooftop Course. - Can be done immediately
+* [x] Complete a lap of the Draynor Village Rooftop Course. - Can be done immediately
 * [ ] Slay a cave bug in the Lumbridge Swamp Caves. - Can be done immediately, requires a rope and a light source (candle?)
-* [ ] Have Sedridor teleport you to the Rune essence mine. - Rune mysteries
+  * [x] Obtain a rope
+  * [ ] Obtain a light source
+* [x] Have Sedridor teleport you to the Rune essence mine. - Rune mysteries
 * [ ] Craft some water runes. - Requires rune essence (from the previous step) and a water talisman (3/128 from wizards)
-* [ ] Learn your age from Hans in Lumbridge.
-* [ ] Pickpocket a man or woman in Lumbridge. - Do this right off tutorial island
-* [ ] Chop and burn some oak logs in Lumbridge. - Requires 3 wc/fm due to SP. Do this right off tutorial island
-* [ ] Kill a zombie in the Draynor Sewers - Use your starting casts for this, don't die :) Save the bones for the varrock diary
-* [ ] Bake some bread on the Lumbridge castle kitchen range. - Gather materials during cooks assistant
-* [ ] Enter the H.A.M. Hideout.
+  * [x] Mine 1 rune essence
+  * [ ] Obtain 1 water talisman
+* [x] Learn your age from Hans in Lumbridge.
+* [x] Pickpocket a man or woman in Lumbridge. - Do this right off tutorial island
+* [x] Chop and burn some oak logs in Lumbridge. - Requires 3 wc/fm due to SP. Do this right off tutorial island
+* [x] Kill a zombie in the Draynor Sewers - Use your starting casts for this, don't die :) Save the bones for the varrock diary
+* [x] Bake some bread on the Lumbridge castle kitchen range. - Gather materials during cooks assistant
+  * [x] Obtain 1 pot of flour
+  * [x] Obtain 1 bowl of water
+* [x] Enter the H.A.M. Hideout.
 
 ### Varrock Easy Diary
 
-* [ ] Browse Thessalia's store.
+* [x] Browse Thessalia's store.
 * [ ] Have Aubury teleport you to the essence mine.
 * [ ] Mine some iron in the south east mining patch near Varrock. - Can be done with only 3 mining, mine an ore for Doric's quest here
-* [ ] Make a normal plank at the Sawmill. - Do during Daddy's Home
-* [ ] Enter the second level of the Stronghold of Security.
-* [ ] Jump over the fence south of Varrock. - Remember to do this when you go to Varrock the first time
-* [ ] Chop down a dying tree in the Lumber Yard. - Do during Daddy's Home
-* [ ] Buy a newspaper. - Do during Daddy's Home/Gertrude's Cat
-* [ ] Give a dog a bone! - Save the bones from the zombie you killed earlier
-* [ ] Spin a bowl on the pottery wheel and fire it in the oven in Barbarian Village. - Buy an extra bucket of water & mine an extra piece of clay
-* [ ] Speak to Haig Halen after obtaining at least 50 Kudos. - Having dragon slayer done & doing the museum quiz should get you here. If not, come back to it
+* [x] Make a normal plank at the Sawmill. - Do during Daddy's Home
+* [x] Enter the second level of the Stronghold of Security.
+* [x] Jump over the fence south of Varrock. - Remember to do this when you go to Varrock the first time
+* [x] Chop down a dying tree in the Lumber Yard. - Do during Daddy's Home
+* [x] Buy a newspaper. - Do during Daddy's Home/Gertrude's Cat
+* [x] Give a dog a bone! - Save the bones from the zombie you killed earlier
+* [x] Spin a bowl on the pottery wheel and fire it in the oven in Barbarian Village. - Buy an extra bucket of water & mine an extra piece of clay
+* [x] Speak to Haig Halen after obtaining at least 50 Kudos. - Having dragon slayer done & doing the museum quiz should get you here. If not, come back to it
 * [ ] Craft some earth runes. - Cannot be obtained from wizards, but you may get one while killing big frogs. 
-* [ ] Catch some trout in the River Lum at Barbarian Village. - Buy the fly rod in Shilo, it might be faster to buy feathers here too. Requires 7 fishing
-* [ ] Steal from the tea stall in Varrock. - Do during Daddy's Home
+  * [x] Mine 1 rune essence
+  * [ ] Obtain 1 earth talisman
+* [x] Catch some trout in the River Lum at Barbarian Village. - Buy the fly rod in Shilo, it might be faster to buy feathers here too. Requires 7 fishing
+* [x] Steal from the tea stall in Varrock. - Do during Daddy's Home
 
 ### Karamja Easy Diary
 
 This one has some tasks that are a bit out of the way, but do the ones you can
 
-* [ ] Pick 5 bananas from the plantation located east of the volcano. - Do when doing the fishing step below
-* [ ] Use the rope swing to travel to the Moss Giant Island north-west of Karamja. - Do when you go to Brimhaven for the first time (your house)
+* [x] Pick 5 bananas from the plantation located east of the volcano. - Do when doing the fishing step below
+* [x] Use the rope swing to travel to the Moss Giant Island north-west of Karamja. - Do when you go to Brimhaven for the first time (your house)
 * [ ] Mine some gold from the rocks on the north-west peninsula of Karamja. - Requires 27 mining, skip for now
 * [ ] Explore Cairn Isle to the west of Karamja. - Out of the way, but near a fairy ring
-* [ ] Use the fishing spots north of the banana plantation. - Get your sardine here
+* [x] Use the fishing spots north of the banana plantation. - Get your sardine here
 * [ ] Collect 5 seaweed from anywhere on Karamja. - Do when selling items to Jiminua
-* [ ] Attempt the TzHaar Fight Pits or Fight Cave. - Do on your first trip to karamja
+* [x] Attempt the TzHaar Fight Pits or Fight Cave. - Do on your first trip to karamja
 * [ ] Kill a jogre in the Pothole Dungeon. - Skip for now
+
+## Step by Step guide
+
+* [ ] Complete tutorial, unlock Skilling Prodigy and Karamja
+  * 25 gp
+* [ ] Learn your age from Hans in Lumbridge.
+* [ ] Pickpocket a man or woman in Lumbridge.
+  * 28 gp (+3)
+* [ ] Chop & burn logs until 3 wc/fm
+* [ ] Chop & burn 1 oak logs
+* [ ] Drop runes, ask for more from mage tutor & pick yours back up
+* [ ] Pick up 2 pots from lumbridge kitchen
+* [ ] Pick up 2 bowls and fill with water
+* [ ] Pick up 2 buckets & 1 knife from cellar
+* [ ] Ask Duke Horacio for a quest and he'll give you an air talisman. (Chat 1•1)
+* [ ] Pick up 10 logs from the top floor & bank them
+* [ ] Pick up 2 wheat from the farms NW of lumbridge
+* [ ] Pick up egg
+* [ ] Make 2 pots of flour
+* [ ] Make 2 buckets of milk
+* [ ] Pickpocket farmer for 59 gp (7 pickpockets) (should be potatoes or onions here for food)
+  * 87 gp (+59)
+* [ ] Use air strike to kill a zombie in the sewer, safespot on ladder
+  * Pick up the bones! Very important
+* [ ] Run south to Draynor, do a lap on the course
+* [ ] Buy 2 ropes from Ned (32 gp)
+  * 55 gp (-32)
+* [ ] Talk to Wizard Sedridor in the Wizards' Tower basement and give him the Air talisman. (Chat 3•1•1)
+* [ ] Enter the H.A.M. Hideout.
+* [ ] Bake some bread on the Lumbridge castle kitchen range.
+* [ ] Finish cook's assistant
+* [ ] Start RFD
+* [ ] Bank all but 10 gp (pickpocket men if you have less than 53 gp in the bank)
+* [ ] Teleport to Karamja (area teleport)
+* [ ] Take Hajedy to Shilo (10 gp)
+  * 45 gp
+* [ ] Withdraw 43 gp
+* [ ] Buy fishing rod (5 gp)
+* [ ] Buy 10 fishing bait (30 gp)
+* [ ] Buy fly fishing rod (5 gp)
+* [ ] Buy 1 feather (2 gp)
+  * 2 gp remaining
+* [ ] Home teleport
+* [ ] Fish sardines in the swamp until you're almost out of bait (save 1 for karamja diary)
+* [ ] Run north to Gertrude's house, use the shortcut on the way for the diary task
+* [ ] Mine 1 soft clay along the way & mix with remaining bowl of water
+* [ ] Pick up doogle leaf
+* [ ] Talk to Gertrude. (Chat 2•1)
+* [ ] Use Doogle leaves on your Raw Sardine to make Seasoned Sardine.
+* [ ] Go to barb village
+* [ ] Catch a trout
+* [ ] Cook all remaining fish (make sure you still have raw seasoned sardine)
+* [ ] Make a bowl with soft clay
+* [ ] Do stronghold of security (do not get boots lol)
+  * 10002 gp
+* [ ] Give a dog a bone! - Use the bones from the zombie you killed
+* [ ] Go to Varrock Square news stand and talk to either Shilop or Wilough. You will need 100 coins. (Chat 2•2)
+  * 9902 gp
+* [ ] Buy a newspaper.
+  * 9852 gp
+* [ ] Browse Thessalia's store.
+* [ ] Buy a fire staff
+  * 8352 gp
+* [ ] Talk to Marlo in the house of the Varrock Estate Agent in northeast Varrock. (Chat 2•3•3)
+* [ ] Do museum quiz
+* [ ] Unlock Kudos
+* [ ] Speak to Haig Halen after obtaining at least 50 Kudos. - Having dragon slayer done & doing the museum quiz should get you here. If not, come back to it
+* [ ] Talk to Aubury south of Varrock's east bank in the Varrock rune shop. (Chat 3)
+* [ ] Talk to Aubury again.
+* [ ] Talk to Old Man Yarlo in his house south-west of Aubury's Rune Shop.
+* [ ] Steal from the tea stall in Varrock.
+* [ ] Withdraw 10 logs
+* [ ] Go to the Lumber Yard northeast of Varrock
+* [ ] Buy 1 saw (13 gp)
+* [ ] Buy ~20 steel nails (60 gp)
+* [ ] Buy 5 bolts of cloth (650 gp ea--3250 gp total)
+* [ ] Convert 10 logs to planks (1000 gp)
+  * 4029 gp remaining
+* [ ] Climb-over the broken fence.
+* [ ] Use your Axe to chop a Dying tree to complete a Varrock Diary task.
+* [ ] Complete Gertrude's cat lumberyard steps
+* [ ] Go back to the Daddy's Home house
+* [ ] Finish Daddy's home
+* [ ] Sell bolts of cloth back to the lumberyard (+2000 gp)
+  * 6029 gp remaining
+* [ ] Buy 400 casts of fire strike (3440 for air runes + 1320 for mind runes = 4760 total)
+  * 1269 gp remaining
+* [ ] Return to Gertrude and finish the quest
+* [ ] Go to Draynor and buy a chronicle (300 gp) and 6 pages (750 gp)
+  * 219 gp remaining
+* [ ] Finish rune mysteries
+* [ ] Have Sedridor teleport you to the Rune essence mine. - Rune mysteries
+* [ ] Mine 2 rune essence
+* [ ] Bank in Draynor
+* [ ] Stop here and use your fire strikes at tree spirits if you can unlock Kandarin!
+* [ ] Teleport to house with construction materials and gp stack and make an inventory of chairs
+  * Hopefully this gets us to 13 construction
+* [ ] Exit POH to Brimhaven
+* [ ] Buy soda ash and bucket of sand
+  * 209 gp remaining
+* [ ] Use the rope swing to travel to the Moss Giant Island north-west of Karamja.
+* [ ] Attempt the TzHaar Fight Pits or Fight Cave. Just go in and out.
+* [ ] Withdraw fishing rod & bait from bank
+* [ ] Pick 5 bananas from the plantation located east of the volcano.
+* [ ] Use the fishing spots north of the banana plantation.
+* [ ] Home teleport, make molten glass at furnace
+* [ ] Get 13 magic by casting wind strike. Do not go above 13 magic.
+
+If you made it this far, you are now set up to do bird house runs. The only things left are to:
+
+* Buy a workshop (10k gp)
+* Build the crafting table 2 and make clockworks using Daddy's Home rewards
+* Obtain oak and willow logs
+* Obtain hops seeds
+
+You can get 10k by using your fire strike casts at nature spirits and selling rune axes to the jungle shop.
+
+However, while birdhouses are good content to unlock early, it is not necessary to start doing them right away. This is a good opportunity to pivot and try to complete more tasks and finish off easy diaries, train skills, etc. Just remember to use your fire strike casts at tree spirits before you do any combat training.
+
+## Other notes
+
+* Big frogs and giant frogs are a good place to train relatively early on since they drop cosmic & nature runes and a shot at a water/earth talisman. Giant frogs drop big bones, big frogs drop regular bones & a chance at a water/earth talisman
+* If we're able to unlock Kandarin before finishing this step-by-step guide, skip construction training and finish off your casts at tree spirits (don't sell axes yet), then start doing Kandarin content. You'll still want to rush bird houses, but doing tasks and quests in Kandarin takes priority. 
