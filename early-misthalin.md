@@ -233,3 +233,8 @@ However, while birdhouses are good content to unlock early, it is not necessary 
 
 * Big frogs and giant frogs are a good place to train relatively early on since they drop cosmic & nature runes and a shot at a water/earth talisman. Giant frogs drop big bones, big frogs drop regular bones & a chance at a water/earth talisman
 * If we're able to unlock Kandarin before finishing this step-by-step guide, skip construction training and finish off your casts at tree spirits (don't sell axes yet), then start doing Kandarin content. You'll still want to rush bird houses, but doing tasks and quests in Kandarin takes priority. 
+
+## Todo
+
+* [ ] Patch in The Knight's Sword and Doric's Quest so that we can complete them immediately after unlocking Asgarnia
+* [ ] Patch in steps to get a head start on Kandarin content (getting jute seeds, rusty sword for diaries)
