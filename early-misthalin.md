@@ -31,6 +31,7 @@ Misthalin has a number of important early game unlocks:
 * Tree spirits (no mage defense & safespottable = good xp, rune axe)
 * Birdhouses (hunter xp, bird nests)
 * Daddy's Home miniquest (construction xp, free house, expensive construction supplies)
+* Lumbridge easy (free low alchs)
 
 ### Tree spirits
 
@@ -53,3 +54,51 @@ Since monkey madness 2 is completed when Kandarin is unlocked, we will likely en
 * Varrock museum - Not necessary, but just get 9 hunter & slayer beforehand (21 w/ Skilling Prodigy)
 * 25 construction (13 w/ SP) - You will need to build a crafting table 2 in your POH (requires 1 molten glass). The reward from Daddy's Home will cover the steel bars and oak planks, as well as the materials required to get 13 construction. You just need to make molten glass
 * Chronicle or law runes - For getting to fossil island via Varrock. Law runes will be hard to obtain in Misthalin, but can be obtained from dark wizards if you're desparate. Chronicle charges are expensive early game but probably worth it
+
+
+### Lumbridge Easy Diary
+
+Be aware of any league tasks that can be completed while doing this. It's not critical to complete this early on, but getting tasks done early is important since you'll be in these areas anyway
+
+Requires Rune Mysteries and Cooks Assistant
+
+* [ ] Complete a lap of the Draynor Village Rooftop Course. - Can be done immediately
+* [ ] Slay a cave bug in the Lumbridge Swamp Caves. - Can be done immediately, requires a rope and a light source (candle?)
+* [ ] Have Sedridor teleport you to the Rune essence mine. - Rune mysteries
+* [ ] Craft some water runes. - Requires rune essence (from the previous step) and a water talisman (3/128 from wizards)
+* [ ] Learn your age from Hans in Lumbridge.
+* [ ] Pickpocket a man or woman in Lumbridge. - Do this right off tutorial island
+* [ ] Chop and burn some oak logs in Lumbridge. - Requires 3 wc/fm due to SP. Do this right off tutorial island
+* [ ] Kill a zombie in the Draynor Sewers - Use your starting casts for this, don't die :) Save the bones for the varrock diary
+* [ ] Bake some bread on the Lumbridge castle kitchen range. - Gather materials during cooks assistant
+* [ ] Enter the H.A.M. Hideout.
+
+### Varrock Easy Diary
+
+* [ ] Browse Thessalia's store.
+* [ ] Have Aubury teleport you to the essence mine.
+* [ ] Mine some iron in the south east mining patch near Varrock. - Can be done with only 3 mining, mine an ore for Doric's quest here
+* [ ] Make a normal plank at the Sawmill. - Do during Daddy's Home
+* [ ] Enter the second level of the Stronghold of Security.
+* [ ] Jump over the fence south of Varrock. - Remember to do this when you go to Varrock the first time
+* [ ] Chop down a dying tree in the Lumber Yard. - Do during Daddy's Home
+* [ ] Buy a newspaper. - Do during Daddy's Home/Gertrude's Cat
+* [ ] Give a dog a bone! - Save the bones from the zombie you killed earlier
+* [ ] Spin a bowl on the pottery wheel and fire it in the oven in Barbarian Village. - Buy an extra bucket of water & mine an extra piece of clay
+* [ ] Speak to Haig Halen after obtaining at least 50 Kudos. - Having dragon slayer done & doing the museum quiz should get you here. If not, come back to it
+* [ ] Craft some earth runes. - Cannot be obtained from wizards, but you may get one while killing big frogs. 
+* [ ] Catch some trout in the River Lum at Barbarian Village. - Buy the fly rod in Shilo, it might be faster to buy feathers here too. Requires 7 fishing
+* [ ] Steal from the tea stall in Varrock. - Do during Daddy's Home
+
+### Karamja Easy Diary
+
+This one has some tasks that are a bit out of the way, but do the ones you can
+
+* [ ] Pick 5 bananas from the plantation located east of the volcano. - Do when doing the fishing step below
+* [ ] Use the rope swing to travel to the Moss Giant Island north-west of Karamja. - Do when you go to Brimhaven for the first time (your house)
+* [ ] Mine some gold from the rocks on the north-west peninsula of Karamja. - Requires 27 mining, skip for now
+* [ ] Explore Cairn Isle to the west of Karamja. - Out of the way, but near a fairy ring
+* [ ] Use the fishing spots north of the banana plantation. - Get your sardine here
+* [ ] Collect 5 seaweed from anywhere on Karamja. - Do when selling items to Jiminua
+* [ ] Attempt the TzHaar Fight Pits or Fight Cave. - Do on your first trip to karamja
+* [ ] Kill a jogre in the Pothole Dungeon. - Skip for now
