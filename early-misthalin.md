@@ -109,17 +109,19 @@ This one has some tasks that are a bit out of the way, but do the ones you can
 * [ ] Chop & burn logs until 3 wc/fm
 * [ ] Chop & burn 1 oak logs
 * [ ] Drop runes, ask for more from mage tutor & pick yours back up
+* [ ] Buy a hammer from the general store (2 gp)
 * [ ] Pick up 2 pots from lumbridge kitchen
 * [ ] Pick up 2 bowls and fill with water
 * [ ] Pick up 2 buckets & 1 knife from cellar
 * [ ] Ask Duke Horacio for a quest and he'll give you an air talisman. (Chat 1•1)
-* [ ] Pick up 10 logs from the top floor & bank them
+* [ ] Pick up 9 logs from the top floor & bank them
 * [ ] Pick up 2 wheat from the farms NW of lumbridge
 * [ ] Pick up egg
 * [ ] Make 2 pots of flour
 * [ ] Make 2 buckets of milk
 * [ ] Pickpocket farmer for 59 gp (7 pickpockets) (should be potatoes or onions here for food)
   * 87 gp (+59)
+* [ ] Do the Halloween event to get 2 pumpkins and some fashion scape
 * [ ] Use air strike to kill a zombie in the sewer, safespot on ladder
   * Pick up the bones! Very important
 * [ ] Run south to Draynor, do a lap on the course
@@ -170,15 +172,15 @@ This one has some tasks that are a bit out of the way, but do the ones you can
 * [ ] Talk to Aubury again.
 * [ ] Talk to Old Man Yarlo in his house south-west of Aubury's Rune Shop.
 * [ ] Steal from the tea stall in Varrock.
-* [ ] Withdraw 10 logs
+* [ ] Withdraw 9 logs
 * [ ] Go to the Lumber Yard northeast of Varrock
+* [ ] Climb-over the broken fence.
+* [ ] Use your Axe to chop a Dying tree to complete a Varrock Diary task.
 * [ ] Buy 1 saw (13 gp)
 * [ ] Buy ~20 steel nails (60 gp)
 * [ ] Buy 5 bolts of cloth (650 gp ea--3250 gp total)
 * [ ] Convert 10 logs to planks (1000 gp)
   * 4029 gp remaining
-* [ ] Climb-over the broken fence.
-* [ ] Use your Axe to chop a Dying tree to complete a Varrock Diary task.
 * [ ] Complete Gertrude's cat lumberyard steps
 * [ ] Go back to the Daddy's Home house
 * [ ] Finish Daddy's home
@@ -189,6 +191,7 @@ This one has some tasks that are a bit out of the way, but do the ones you can
 * [ ] Return to Gertrude and finish the quest
 * [ ] Go to Draynor and buy a chronicle (300 gp) and 6 pages (750 gp)
   * 219 gp remaining
+  * In my dry run, I had a lot more gp remaining. Make sure you have 5-10 chronicle teleports, then buy event rpg and cabbage cape
 * [ ] Finish rune mysteries
 * [ ] Have Sedridor teleport you to the Rune essence mine. - Rune mysteries
 * [ ] Mine 2 rune essence
@@ -199,12 +202,13 @@ This one has some tasks that are a bit out of the way, but do the ones you can
 * [ ] Exit POH to Brimhaven
 * [ ] Buy soda ash and bucket of sand
   * 209 gp remaining
+  * [ ] Also buy a glassblowing pipe for 5 gp
 * [ ] Use the rope swing to travel to the Moss Giant Island north-west of Karamja.
+* [ ] Make molten glass at furnace in TzHaar area
 * [ ] Attempt the TzHaar Fight Pits or Fight Cave. Just go in and out.
 * [ ] Withdraw fishing rod & bait from bank
 * [ ] Pick 5 bananas from the plantation located east of the volcano.
 * [ ] Use the fishing spots north of the banana plantation.
-* [ ] Home teleport, make molten glass at furnace
 * [ ] Get 13 magic by casting wind strike. Do not go above 13 magic.
 
 If you made it this far, you are now set up to do bird house runs. The only things left are to:
