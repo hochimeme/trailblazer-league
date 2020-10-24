@@ -24,7 +24,6 @@ Smoke devil|93|93|Occult necklace|Cannot be boosted, don’t bother unless plann
 Tool store 1|15|3|Saws, hammers, chisels, and shears. Not super useful but will be nice to have since banking will be a pain.
 Oak dining table|22|10|Best way of training using oak planks for a while
 Crafting table 2|25|13|You can make clockwork
- | | | 
 Oak larder|33|21|Training
 Tool store 4|44|32|Not worth unlocking if you have kandarin
 Limestone altar|64|52|Best altar available, probably better xp/hour than ecto
