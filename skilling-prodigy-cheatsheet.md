@@ -26,10 +26,10 @@ Oak dining table|22|10|Best way of training using oak planks for a while
 Crafting table 2|25|13|You can make clockwork
 Oak larder|33|21|Training
 Tool store 4|44|32|Not worth unlocking if you have kandarin
-Limestone altar|64|52|Best altar available, probably better xp/hour than ecto
 Amulet of glory|47|35|It’s hard to get charged glories, but you probably won’t use it often
 Portal chamber|50|38|You still need to be able to cast the spell
 Demon butler|50|38|Not sure if this is boostable or not
+Limestone altar|64|52|Best altar available, probably better xp/hour than ecto
 Oubliette Flame pit|77|65|Costs 125k, but at least it’s obtainable. Used for suiciding in poh to reset stats
 Scrying pool|80|68|Probably some smuggle bug involving this
 Digsite pendant|82|70|Birdhouses
