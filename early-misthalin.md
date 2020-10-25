@@ -133,7 +133,8 @@ This one has some tasks that are a bit out of the way, but do the ones you can
 * [ ] Bake some bread on the Lumbridge castle kitchen range.
 * [ ] Finish cook's assistant
 * [ ] Start RFD
-* [ ] Bank all but 10 gp (pickpocket men if you have less than 53 gp in the bank)
+* [ ] Do Misthalin Mystery
+* [ ] Bank all but 10 gp (pickpocket men if you have less than 53 gp in the bank). Bank Misthalin Mystery rewards as well
 * [ ] Teleport to Karamja (area teleport)
 * [ ] Take Hajedy to Shilo (10 gp)
   * 45 gp
