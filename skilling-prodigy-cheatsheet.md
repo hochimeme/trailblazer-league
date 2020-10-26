@@ -40,3 +40,19 @@ Fairy ring|85|73|Mushrooms can be obtained without morytania by cutting mushroom
 * Construction starts at 13 due to Daddy's Home
 * Building new rooms is indeed boostable
 * Ornate pool is not available & other pools are worthless. Flame pit is the best alternative
+
+## Other
+
+**Item**|**Skill**|**Requirement**|**SP Requirement**|**Notes**
+:-----:|:-----:|:-----:|:-----:|:-----:
+Strength amulet|Crafting|50|38|Use your ruby from Misthalin Mystery. Requires 49 magic and a cosmic rune, so likely not obtainable until Kandarin
+Power amulet|Crafting|70|58|Also requires 57 magic
+Amulet of Glory|Hunter|83|71|Not worth rushing, but still try to get it fairly early
+Amulet of Fury|Crafting|90|78|Grind barrows for chaos runes
+Black dhide body|Crafting|84|72| 
+
+### Notes
+
+* Crafting starts at level 16 due to Misthalin Mystery. You can do sheep shearer as well, but probably is worse xp/hour than just making glass lol
+* Either train your construction & mining/smithing to get moulds and gold bars in misthalin, or wait until kandarin and buy moulds from ape atoll & pick up bars from corsair’s cove (use the north entrance)
+* Remember to keep crafting on par with hunter for birdhouses
