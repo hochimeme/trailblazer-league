@@ -101,6 +101,8 @@ This one has some tasks that are a bit out of the way, but do the ones you can
 
 ## Step by Step guide
 
+### Starting out
+
 * [ ] Complete tutorial, unlock Skilling Prodigy and Karamja
   * 25 gp
 * [ ] Learn your age from Hans in Lumbridge.
@@ -135,6 +137,8 @@ This one has some tasks that are a bit out of the way, but do the ones you can
 * [ ] Finish cook's assistant
 * [ ] Start RFD
 * [ ] Do Misthalin Mystery
+
+### On to Varrock
 * [ ] Bank all but 10 gp (pickpocket men if you have less than 53 gp in the bank). Bank Misthalin Mystery rewards as well
 * [ ] Teleport to Karamja (area teleport)
 * [ ] Take Hajedy to Shilo (10 gp)
@@ -191,6 +195,8 @@ This one has some tasks that are a bit out of the way, but do the ones you can
 * [ ] Buy 400 casts of fire strike (3440 for air runes + 1320 for mind runes = 4760 total)
   * 1269 gp remaining
 * [ ] Return to Gertrude and finish the quest
+
+### Preparing for Birdhouses
 * [ ] Go to Draynor and buy a chronicle (300 gp) and 6 pages (750 gp)
   * 219 gp remaining
   * In my dry run, I had a lot more gp remaining. Make sure you have 5-10 chronicle teleports, then buy event rpg and cabbage cape
