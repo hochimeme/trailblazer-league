@@ -123,6 +123,7 @@ This one has some tasks that are a bit out of the way, but do the ones you can
   * 87 gp (+59)
 * [ ] Do the Halloween event to get 2 pumpkins and some fashion scape
 * [ ] Use air strike to kill a zombie in the sewer, safespot on ladder
+  * From testing: This is gonna be sketchy. It's not critical to do this step here if you can't kill the zombie. Just get your bones from somewhere else
   * Pick up the bones! Very important
 * [ ] Run south to Draynor, do a lap on the course
 * [ ] Buy 2 ropes from Ned (32 gp)
