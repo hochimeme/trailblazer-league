@@ -47,6 +47,7 @@ Ranged: You can now get a bone crossbow so use that if you haven't unlocked a MS
 Prayer: Blue dragons in taverly, but try to save them for the ectofuntus
 Construction: Mahogany Homes might be viable now, but steel bars are probably still too hard to get
 Mining: You can upgrade to a rune pickaxe now & use the mining guild if possible. MLM is an option but it isn't afk until the top level, even then...
+Hunter/Fishing: With the Mogre miniquest, drift net fishing should now be viable
 
 # Morytania
 
